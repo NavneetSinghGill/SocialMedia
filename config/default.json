@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://vip:Thesocialmedia@cluster0.pacqv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
