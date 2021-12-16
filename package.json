@@ -19,6 +19,7 @@
   "homepage": "https://github.com/NavneetSinghGill/SocialMedia#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
+    "colors": "^1.4.0",
     "config": "^3.3.6",
     "express": "^4.17.1",
     "express-validator": "^6.13.0",
@@ -28,7 +29,6 @@
     "request": "^2.88.2"
   },
   "devDependencies": {
-    "colors": "^1.4.0",
     "concurrently": "^6.4.0",
     "nodemon": "^2.0.15"
   }
